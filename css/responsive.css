@@ -1,0 +1,269 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 1024px) and (max-width: 1366px) {
+.sp-slide .welcome-text {
+    margin-top: 300px !important;
+}
+.sp-layer{
+	margin-top: 230px !important;
+}
+.down-arrow {
+    top: 530px !important;
+}
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.token-single{
+		margin-bottom: 30px;
+	}
+	.token-sold {
+		left: 88px;
+	}
+	.d-block.login-registration{
+		display: block !important;
+		margin-top: -50px;
+	}
+
+	.d-none .login-registration{
+		display: block;
+	}
+	.sp-slide .welcome-text {
+    margin-top: 300px !important;
+}
+.sp-layer{
+	margin-top: 248px !important;
+}
+.down-arrow {
+    top: 530px !important;
+}
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+ 
+}
+ 
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+.border-hover {
+    color: #fff;
+}
+.cssmenu .menu-button{
+	color: #ddd;
+}
+.cssmenu .menu-button::before{
+	
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
+.cssmenu .menu-button::after{
+background: #ffffff;
+}
+ .header-nav .menu > li > a img{
+ 	margin-top: 10px;
+ }
+ .login-registration{
+ 	display: block;
+ }
+}
+@media only screen and (min-width: 414px) and (max-width: 736px) {
+	.sp-layer img{
+		margin-left: 20px !important;
+	}
+	.down-arrow {
+    bottom: 26px !important;
+}
+}
+@media only screen and (min-width: 411px) and (max-width: 823px) {
+	.sp-layer img{
+		margin-left: 20px !important;
+	}
+	.down-arrow {
+    bottom: 26px !important;
+}
+}
+@media only screen and (min-width: 411px) and (max-width: 731px) {
+	.sp-layer img{
+		margin-left: 20px !important;
+	}
+	.down-arrow {
+    bottom: 26px !important;
+}
+}
+@media only screen and (min-width: 375px) and (max-width: 812px) {
+	
+	.down-arrow {
+    bottom: 100px !important;
+}
+}
+
+@media only screen and (min-width: 360px) and (max-width: 640px) {
+
+ .logo img {
+    max-width: 60px;
+}
+.login-registration {
+    margin: 2px 0;
+}
+.login-registration a {
+    font-size: 10px;
+}
+.border-hover {
+    color: #fff;
+}
+.header-nav .menu > li > a img {
+    max-width: 34px;
+}
+div#menu-button0 {
+    color: #bebdbd;
+}
+.cssmenu .menu-button::before{
+	
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
+.cssmenu .menu-button::after{
+background: #ffffff;
+}
+.sp-slide .welcome-text {
+    width: 100% !important;
+    margin-top: 230px !important;
+    margin-left: -8px !important;
+}
+.sp-layer {
+    width: 100% !important;
+    margin-top: 350px !important;
+}
+.down-arrow{
+	bottom: -120px;
+}
+.story-content h2 {
+    font-size: 27px;
+    line-height: 35px;
+}
+.our-service .story-content-description {
+    padding: 8px;
+}
+.product-details-content h2 {
+    font-size: 22px;
+}
+.contact-information{
+	padding: 0px;
+}
+.contact-information h2{
+	font-size: 24px;
+}
+a.close-popup.close-fi {
+    right: -15px;
+}
+.close-fa {
+    left: 147px;
+}
+a.close-popup.close-fe2 {
+    right: -45px;
+}
+.product-nav-menu li a{
+	margin-left: 16px;
+}
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 568px) {
+ .logo img {
+    max-width: 60px;
+}
+.login-registration {
+    margin: 2px 13px;
+    margin-bottom: 30px;
+}
+.login-registration a {
+    font-size: 10px;
+}
+.border-hover {
+    color: #fff;
+}
+.header-nav .menu > li > a img {
+    max-width: 34px;
+}
+div#menu-button0 {
+    color: #bebdbd;
+}
+.cssmenu .menu-button::before{
+	
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
+.cssmenu .menu-button::after{
+background: #ffffff;
+}
+.sp-slide .welcome-text h2{
+	font-size: 32px;
+	line-height: 36px;
+}
+.sp-slide .welcome-text {
+    width: 100% !important;
+    margin-top: 160px !important;
+    margin-left: 19px;
+}
+.sp-layer {
+    width: 100% !important;
+    margin-top: 240px !important;
+}
+.sp-layer img {
+    margin-left: -31px;
+}
+.down-arrow{
+	bottom: -72px;
+}
+
+.product-title h2 {
+    font-size: 45px;
+    line-height: 49px;
+    margin-top: 19px;
+}
+.product-title p {
+    font-size: 13px;
+}
+.story-content h2 {
+    font-size: 27px;
+    line-height: 35px;
+}
+.our-service .story-content-description {
+    padding: 8px;
+}
+.product-details-content h2 {
+    font-size: 22px;
+}
+.contact-information{
+	padding: 0px;
+}
+.contact-information h2{
+	font-size: 24px;
+}
+a.close-popup.close-fi {
+    right: -15px;
+}
+.close-fa {
+    left: 147px;
+}
+a.close-popup.close-fe2 {
+    right: -45px;
+}
+.product-nav-menu li a{
+	margin-left: 16px;
+}
+.owl-theme .owl-nav {
+    right: 10px;
+    top: 20%;
+}
+}
